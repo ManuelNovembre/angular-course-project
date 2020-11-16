@@ -1,4 +1,5 @@
-# CourseProject
+# angular-course-project
+### project on Udemy [Angular - the complete guide course](https://www.udemy.com/course/the-complete-guide-to-angular-2) 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.4.
 
