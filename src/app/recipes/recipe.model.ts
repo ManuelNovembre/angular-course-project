@@ -12,7 +12,5 @@ export class Recipe {
     this.imagePath = _imagePath;
     this.ingredients = _ingredients;
   }
-  getIngredients(){
-    return this.ingredients.slice();
-  }
+
 }
